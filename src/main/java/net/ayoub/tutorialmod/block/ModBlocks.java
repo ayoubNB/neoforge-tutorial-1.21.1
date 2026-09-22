@@ -1,6 +1,7 @@
 package net.ayoub.tutorialmod.block;
 
 import net.ayoub.tutorialmod.TutorialMod;
+import net.ayoub.tutorialmod.block.custom.MagicBlock;
 import net.ayoub.tutorialmod.item.ModItems;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
@@ -18,6 +19,10 @@ import java.util.function.Supplier;
 public class ModBlocks {
     public static final DeferredRegister.Blocks BLOCKS =
             DeferredRegister.createBlocks(TutorialMod.MODID);
+
+    public static final DeferredBlock<Block> MAGIC_BLOCK=
+            registerBlock("magic_block",
+                    ()-> new MagicBlock(BlockBehaviour.Properties.of().strength(2f)));
 
     public static final DeferredBlock<Block> BISMUTH_BLOCK = registerBlock("bismuth_block",
             () -> new Block(BlockBehaviour.Properties.of()

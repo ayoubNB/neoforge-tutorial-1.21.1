@@ -4,7 +4,11 @@
   "item.tutorialmod.example_item": "Example Item",
   "item.tutorialmod.bismuth": "Bismuth",
   "item.tutorialmod.raw_bismuth": "Raw Bismuth",
+  "item.tutorialmod.chisel": "a chisel fo sure",
+
   "block.tutorialmod.bismuth_block": "Block of Bismuth",
+  "block.tutorialmod.magic_block": "magik",
+
   "block.tutorialmod.bismuth_ore": "Bismuth ore",
   "block.tutorialmod.my_block": "A block of sorts",
 
@@ -19,5 +23,11 @@
   "tutorialmod.configuration.items": "Item List",
   "tutorialmod.configuration.logDirtBlock": "Log Dirt Block",
   "tutorialmod.configuration.magicNumberIntroduction": "Magic Number Text",
-  "tutorialmod.configuration.magicNumber": "Magic Number"
+  "tutorialmod.configuration.magicNumber": "Magic Number",
+
+
+  "tooltip.tutorialmod.magic_block.tooltip": "whats under there",
+  "tooltip.tutorialmod.chisel.shift_down": "chisel my wisel!",
+  "tooltip.tutorialmod.chisel": "dont press shift"
+
 }
