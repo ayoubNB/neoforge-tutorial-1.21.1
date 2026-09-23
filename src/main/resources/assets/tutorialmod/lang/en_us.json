@@ -1,7 +1,5 @@
 {
-  "itemGroup.tutorialmod": "Example Mod Tab",
-  "block.tutorialmod.example_block": "Example Block",
-  "item.tutorialmod.example_item": "Example Item",
+
   "item.tutorialmod.bismuth": "Bismuth",
   "item.tutorialmod.raw_bismuth": "Raw Bismuth",
   "item.tutorialmod.chisel": "a chisel fo sure",
@@ -15,17 +13,6 @@
   "creativetab.tutorialmod.my_items_and_blocks": "My stuff",
   "creativetab.tutorialmod.bismuth_items": "Bismuth Items",
   "creativetab.tutorialmod.bismuth_Blocks": "Bismuth Blocks",
-
-
-  "tutorialmod.configuration.title": "Example Mod Configs",
-  "tutorialmod.configuration.section.tutorialmod.common.toml": "Example Mod Configs",
-  "tutorialmod.configuration.section.tutorialmod.common.toml.title": "Example Mod Configs",
-  "tutorialmod.configuration.items": "Item List",
-  "tutorialmod.configuration.logDirtBlock": "Log Dirt Block",
-  "tutorialmod.configuration.magicNumberIntroduction": "Magic Number Text",
-  "tutorialmod.configuration.magicNumber": "Magic Number",
-
-
   "tooltip.tutorialmod.magic_block.tooltip": "whats under there",
   "tooltip.tutorialmod.chisel.shift_down": "chisel my wisel!",
   "tooltip.tutorialmod.chisel": "dont press shift"
